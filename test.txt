@@ -1,0 +1,2 @@
+Hazlo tu mismo 3
+Escribe un programa que lea sincronicamente de un archivo llamado test.txt e imprime el texto en la consola.
